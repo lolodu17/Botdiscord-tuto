@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-const token = "MjUwMDA1MDI3MTUyNzIzOTY5.CxOi3g.T12XrjS8QW6qjTG6qwkIODRUNhI";
+const token = "token";
 var prefix = ".";
 var mention = "<@1930903359700619264>";
 var memberCount = client.users.size;
